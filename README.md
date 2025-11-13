@@ -6,7 +6,7 @@
 
 ## Sobre mim
 
-**Luiz (Unfragor)**
+**Luiz**
 
 Comecei minha jornada na programação em 2024, explorando linguagens de baixo nível e sistemas operacionais. Sou movido pela curiosidade de entender como as coisas funcionam nas camadas mais fundamentais da computação.
 
